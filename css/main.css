@@ -1062,13 +1062,6 @@ section.first_screen .content_first_page .second_block
     -ms-flex-pack: center;
             justify-content: center;
 }
-@media (max-width: 499px)
-{
-    .second_screen .content_second_page
-    {
-        height: 200px;
-    }
-}
 .second_screen .content_second_page .images_circle
 {
     display: -webkit-box;
